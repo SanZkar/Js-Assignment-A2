@@ -1,0 +1,36 @@
+
+body.high-contrast {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: black;
+    color: white;
+    padding: 30px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+body.high-contrast header,
+body.high-contrast section,
+body.high-contrast footer {
+    background-color: black;
+    color: white;
+    padding: 30px;
+}
+
+body.high-contrast th,
+body.high-contrast td {
+    border: 1px solid yellow;
+}
+
+body.high-contrast th {
+    background-color: dimgray;
+    color: yellow;
+}
+
+body.high-contrast button {
+    background-color: yellow;
+    color: black;
+}
+
+body.high-contrast a {
+    color: yellow;
+}
